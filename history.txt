@@ -1,0 +1,500 @@
+    3  gl
+    4  ed .
+    5  ac "page50"
+    6  ac "page58"
+    7  ac "page61_removeFadeout"
+    8  ac "page63"
+    9  git rm --cached Backbone Marionette.js - A Gentle Introduction - David Sulc - November 2013.pdf
+   10  git rm --cached Backbone\ Marionette.js\ -\ A\ Gentle\ Introduction\ -\ David\ Sulc\ -\ November\ 2013.pdf 
+   11  gs
+   12  gs
+   13  ac "bla"
+   14  gs
+   15  git remote add origin https://github.com/sainjori/gent.git
+   16  git remote add gent https://github.com/sainjori/gent.git
+   17  git push -u origin gent
+   18  git push -u gent mywork 
+   19  gent
+   20  gentle
+   21  gs
+   22  bower init
+   23  bower init
+   24  bower install bootstrap-sass --save
+   25  git init
+   26  ac "blala"
+   27  gs
+   28  gb
+   29  git pull
+   30  git pull --all
+   31  gb
+   32  git branch
+   33  gl
+   34  git fetch --all
+   35  gb
+   36  git origin
+   37  git remote
+   38  git fetch --all
+   39  git pull
+   40  git pull --all
+   41  git pull https://github.com/sainjori/testing.git --all
+   42  git pull --all https://github.com/sainjori/testing.git
+   43  git fetch -all https://github.com/sainjori/testing.git
+   44  git fetch --all https://github.com/sainjori/testing.git
+   45  git pull -b trash https://github.com/sainjori/testing.git
+   46  git remote show
+   47  bp
+   48  source
+   49  git-pull-all
+   50  git clone https://github.com/sainjori/testing.git Parkhaus
+   51  rm -rf Parkhaus/
+   52  gl
+   53  ll
+   54  cd ..
+   55  git clone https://github.com/sainjori/testing.git ParkhausTesting
+   56  cd ParkhausTesting/
+   57  ls
+   58  gb
+   59  git fetch --all
+   60  git pull --all
+   61  cd ..
+   62  git clone -b workOnAdminarea https://github.com/sainjori/testing.git ParkhausTesting
+   63  rm -rf ParkhausTesting/
+   64  git clone -b workOnAdminarea https://github.com/sainjori/testing.git ParkhausTesting
+   65  git clone -b workOnAdminArea https://github.com/sainjori/testing.git ParkhausTesting
+   66  gs
+   67  gl
+   68  cd ParkhausTesting/
+   69  gs
+   70  gb
+   71  gulp
+   72  npm install
+   73  gulp
+   74  ed .
+   75  npm install --save bootstrap-sass
+   76  gulp
+   77  npm install -D browserify-shim
+   78  gulp
+   79  gem update
+   80  gulp
+   81  compass
+   82  which components/
+   83  which compass
+   84  sass
+   85  gem uninstall sass
+   86  gem uninstall sass
+   87  gem uninstall sass
+   88  gem uninstall compass
+   89  gem uninstall sass
+   90  sass
+   91  which sass
+   92  explorer /c/Ruby22-x64/bin/sass
+   93  cd /c/Ruby22-x64/bin/sass
+   94  cd c
+   95  cd c:
+   96  cd Ruby22-x64/bin/sass
+   97  cd Ruby22-x64/bin/sass
+   98  cd Ruby22-x64/bin/
+   99  explorer .
+  100  which sass
+  101  gem uninstall sass
+  102  gem install sass
+  103  gem install compass
+  104  cd ~/Desktop/Onwerk/ParkhausTesting
+  105  gulp
+  106  bower
+  107  gulp
+  108  gulp
+  109  gulp compass
+  110  gulp --trace compass
+  111  gulp compass
+  112  gulp compass
+  113  gulp
+  114  gulp
+  115  gs
+  116  git rm --cached .sass-cache/*
+  117  git rm --cached .sass-cache/**/*
+  118  git rm --cached .sass-cache/
+  119  git rm -r --cached .sass-cache/
+  120  gs
+  121  ac "deleted cached .sssass"
+  122  gl
+  123  gb
+  124  gs
+  125  gs
+  126  gb
+  127  gl
+  128  gl
+  129  ed .
+  130  park
+  131  git init
+  132  ac "bla"
+  133  git push
+  134  gent
+  135  gentl
+  136  gentel
+  137  bp
+  138  source
+  139  gent
+  140  gl
+  141  gb
+  142  gs
+  143  ac "page96"
+  144  ac "page100jquery deferreds"
+  145  ac "page101ReturnPromiseAndNOt contactss"
+  146  git push
+  147  git push --set-upstream  origin mywork 
+  148  git show Backbone\ Marionette.js\ -\ A\ Gentle\ Introduction\ -\ David\ Sulc\ -\ November\ 2013.pdf
+  149  git log -p Backbone\ Marionette.js\ -\ A\ Gentle\ Introduction\ -\ David\ Sulc\ -\ November\ 2013.pdf
+  150  git rm --cached 0e819782a0aa4d0676d4437f479110095345ecfd
+  151  git rm --cached Backbone\ Marionette.js\ -\ A\ Gentle\ Introduction\ -\ David\ Sulc\ -\ November\ 2013.pdf
+  152  git rm --cached Backbone\ Marionette.js\ -\ A\ Gentle\ Introduction\ -\ David\ Sulc\ -\ November\ 2013.pdf 
+  153  git show 0e819782a0aa4d0676d4437f479110095345ecfd
+  154  park
+  155  gl
+  156  gs
+  157  gl
+  158  git checkout -b WorkOnAdminAreaFromHome
+  159  git push
+  160  git push --set-upstream  origin  WorkOnAdminAreaFromHome 
+  161  git push --set-upstream origin WorkOnAdminAreaFromHome 
+  162  git config --global push.default simple
+  163  git push
+  164  git push --set-upstream origin WorkOnAdminAreaFromHome 
+  165  gent
+  166  ed .
+  167  gl
+  168  ex .
+  169  explorer .
+  170  history
+  171  history | grep asset
+  172   install -Dv /dev/null assets/js/apps/contacts/show/show_controller.js
+  173  gs
+  174  git add assets/js/vendor/*
+  175  git commit -m "added spinner files"
+  176  gs
+  177  git checkout assets/js/apps/contacts/show/show_controller.js
+  178  gs
+  179   install -Dv /dev/null assets/js/common/views.js
+  180  gs
+  181  ac "page113"
+  182   install -Dv /dev/null assets/js/apps/contacts/edit/edit_view.js
+  183   install -Dv /dev/null assets/js/apps/contacts/edit/edit_controller.js
+  184  ac "page121"
+  185  gl
+  186  gs
+  187  gb
+  188  git branch -a
+  189  git checkout remotes/origin/workOnAdminArea
+  190  git checkout -b remotes/origin/workOnAdminArea
+  191  git pull
+  192  git branch --set-upstream-to=https://github.com/sainjori/testing.git/workOnAdminArea remotes/origin/workOnAdminArea
+  193  git branch --set-upstream-to=https://github.com/sainjori/testing.git/tree/workOnAdminArea remotes/origin/workOnAdminArea
+  194  git clone https://github.com/sainjori/testing.git
+  195  git clone https://github.com/sainjori/testing.git ParkhausStart
+  196  cd ParkhausStart/
+  197  gs
+  198  gb
+  199  git checkout --track https://github.com/sainjori/testing.git/workOnAdminArea
+  200  git show remotes
+  201  git branch -a
+  202  git checkout remotes/origin/workOnAdminArea
+  203  gs
+  204  gb
+  205  for remote in `git branch -r `; do git branch --track $remote; done
+  206  gb
+  207  git checkout trash 
+  208  for remote in `git branch -r `; do git branch --track $remote; done
+  209  gb
+  210  git checkout origin/workOnAdminArea 
+  211  git pull
+  212  git pull --all
+  213  git fetch --all
+  214  git pull origin/workOnAdminArea
+  215  gs
+  216  for remote in `git branch -r `; do git checkout $remote ; git pull; done
+  217  gs
+  218  gb
+  219  git pull
+  220  for remote in `git branch -r | grep -v /HEAD`; do git checkout --track $remote ; done
+  221  gb
+  222  cd _
+  223  cd -
+  224  gs
+  225  git pull
+  226  git pull --all https://github.com/sainjori/testing.git
+  227  git fetch -- all
+  228  git fetch --all
+  229  git pull --all
+  230  cd ..
+  231  git clone -b https://github.com/sainjori/testing.git WorkOnAdminArea
+  232  git clone -b https://github.com/sainjori/testing.git workOnAdminArea
+  233  park
+  234  park2
+  235  gs
+  236  git branch
+  237  cd ..
+  238  cd Parkhaus
+  239  gb
+  240  gs
+  241  git checkout -b workOnAdminArea
+  242  ac "bla"
+  243  gs
+  244  npm install
+  245  gulp
+  246  ed .
+  247  gulp
+  248  bower install bootstrap-sass
+  249  gulp
+  250  git branch -a
+  251  git checkout --track remotes/origin/jeet
+  252  ac "gg"
+  253  git checkout --track remotes/origin/jeet
+  254  git pull
+  255  gs
+  256  gb
+  257  git branch -a
+  258  git checkout --track remotes/origin/workOnAdminArea
+  259  gb
+  260  git checkout workOnAdminArea 
+  261  git pull
+  262  git clone https://github.com/sainjori/testing.git workOnAdminArea
+  263  gs
+  264  git clone -b https://github.com/sainjori/testing.git workOnAdminArea
+  265  git clone -b https://github.com/sainjori/testing.git workOnAdminArea2
+  266  git clone -b https://github.com/sainjori/testing.git workOnAdminArea
+  267  git clone https://github.com/sainjori/testing.git --branch workOnAdminArea
+  268  cd testing/
+  269  npm install
+  270  bower install bootstrap-sass
+  271  ed .
+  272  gulp
+  273  gulp
+  274  npm install --save bootstrap
+  275  npm install --save bootstrap-sass
+  276  gulp
+  277  gs
+  278  gs
+  279  gs
+  280  gs
+  281  gs
+  282  git rm --cached .sass-cache/*
+  283  git rm --cached .sass-cache/**/*
+  284  git rm --cached .sass-cache/**/*.scssc
+  285  git rm --cached .sass-cache/
+  286  git rm -r --cached .sass-cache/
+  287  gs
+  288  git commit -m "removed sass chace"
+  289  gs
+  290  gulp
+  291  gs
+  292  ac "start up was not working from home"
+  293  gs
+  294  git push
+  295  gulp
+  296  ed .
+  297  gs
+  298  ac "bla2
+  299  "
+  300  git push
+  301  mkdir Parkhaus
+  302  cd Parkhaus/
+  303  git clone --bare https://github.com/sainjori/testing.git .git
+  304  gb
+  305  git config --bool core.bare false
+  306  git reset --hard
+  307  gb
+  308  git checkout workOnAdminAreaBenutzer 
+  309  npm install
+  310  bower intall
+  311  ed .
+  312  bower update
+  313  gulp
+  314  gl
+  315  gent
+  316  gs
+  317  gl
+  318  ed
+  319  ed
+  320  ed .
+  321  gl
+  322  install -DV /dev/null assets/js/apps/config/marionette/regions/dialog.js
+  323  ed .
+  324  install -DV /dev/null assets/js/apps/config/marionette/regions/dialog.js
+  325  gs
+  326  gl
+  327  ed .
+  328  history | grep install
+  329  install -DV /dev/null assets/js/apps/contacts/common/views.js
+  330  install -DV /dev/null assets/js/apps/contacts/common/views.js
+  331  ac page150
+  332  ac "page152_prependAttachhtm"
+  333  gs
+  334  git diff
+  335  install -DV /dev/null assets/js/apps/config/marionette/regions/dialog.js
+  336  gs
+  337  ac "page158_notWorking"
+  338  git clone https://github.com/gionkunz/angular2-sandbox.git
+  339  git clone https://github.com/gionkunz/angular2-sandbox.git
+  340  cd angular2-sandbox/
+  341  npm install
+  342  gulp
+  343  cd ,,/
+  344  cd ..
+  345  cd ng2do/
+  346  subl .
+  347  ed .
+  348  subl .
+  349  git clone https://github.com/davideast/ng2do.git
+  350  npm install
+  351  cd ng2do/
+  352  npm install
+  353  gulp
+  354  gulp serve
+  355  gulp
+  356  gulp serve
+  357  pbcopy
+  358  visua
+  359  visual
+  360  git clone https://github.com/schacon/simplegit-progit learnGit
+  361  cd learnGit/
+  362  git log
+  363  git log -p
+  364  git log -p -2
+  365  git log --stat
+  366  git log --pretty
+  367  git log --fulle
+  368  git log --pretty=fuller
+  369  git log --pretty=short
+  370  git log --pretty=oneline
+  371  git config --global alias.visual '!gitk'
+  372  Git Aliases
+  373  git config --global alias.visual '!gitk'
+  374  Git Aliases
+  375  git config --global alias.visual '!gitk'
+  376  visual
+  377  gitk
+  378  park
+  379  l
+  380  des
+  381  alias
+  382  portfolio 
+  383  ls
+  384  gs
+  385  ed .
+  386  subl
+  387  subl .
+  388  gs
+  389  git add .
+  390  git commit -v
+  391  git dif
+  392  gs
+  393  git diff
+  394  git diff --staged
+  395  alias
+  396  vi
+  397  gs
+  398  git remote
+  399  origin
+  400  git remote
+  401  git remote --help
+  402  git --help
+  403  gs
+  404  git checkout .
+  405  git clone https://github.com/eggheadio/egghead-angularjs-eggly-architecture.git
+  406  git clone   https://github.com/eggheadio/egghead-angularjs-eggly-architecture.git
+  407  git clone  https://github.com/eggheadio/egghead-angularjs-eggly-architecture.git
+  408  git clone  https://github.com/eggheadio/egghead-angularjs-eggly-architecture.git
+  409  git clone https://github.com/eggheadio/egghead-angularjs-eggly-architecture.git
+  410  git clone https://github.com/eggheadio/egghead-angularjs-eggly-architecture.git
+  411  cd egghead-angularjs-eggly-architecture/
+  412  ll
+  413  subl .
+  414  npm init
+  415  npm install lite-server --save-dev
+  416  npm
+  417  npm install lite-server --save-dev
+  418  npm run dev
+  419  npm run dev
+  420  npm run dev
+  421  npm run dev
+  422  npm run dev
+  423  npm run dev
+  424  npm run dev
+  425  npm run dev
+  426  npm run dev
+  427  npm run dev
+  428  npm run dev
+  429  npm run dev
+  430  npm run dev
+  431  npm run dev
+  432  npm run dev
+  433  git remote add origin https://github.com/sainjori/angular1egg.git
+  434  git remote add gh:egg https://github.com/sainjori/angular1egg.git
+  435  git remote add ghegg https://github.com/sainjori/angular1egg.git
+  436  git push -u ghegg 
+  437  gs
+  438  ac "server,woring now"
+  439  git push
+  440  pwd
+  441  pwd
+  442  cd c:
+  443  dir
+  444  cd Program\ Files
+  445  pwd
+  446  cd Git/
+  447  dir
+  448  pwd
+  449  al
+  450  ml
+  451  ll
+  452  mkdir Sandbox
+  453  al
+  454  ll
+  455  cd Sandbox/
+  456  git clone  https://github.com/FineLinePrototyping/employee-training-tracker.git
+  457  git clone https://github.com/FineLinePrototyping/employee-training-tracker.git
+  458  cd employee-training-tracker/
+  459  bundle install
+  460  ruby -v
+  461  bundle install
+  462  cd Sandbox/
+  463  cd employee-training-tracker/
+  464  bundle install
+  465  cd Sandbox/employee-training-tracker/
+  466  ll
+  467  bundle install
+  468  gem install json -v '1.8.0'
+  469  rake db:migrate
+  470  tsc -v
+  471  npm install -g typescript
+  472  tsc -v
+  473  npm -help
+  474  npm update
+  475  npm upgrade
+  476  npm update -g typescript
+  477  tsc -v
+  478  npm outdated
+  479  npm outdated
+  480  tsc -v
+  481  where tsc
+  482  npm -help
+  483  npm uninstall -g typescript
+  484  tsc
+  485  tsc -v
+  486  tsc
+  487  tsc -v
+  488  source
+  489  al
+  490  al
+  491  al
+  492  source
+  493  gs
+  494  al
+  495  al
+  496  source
+  497  gd
+  498  al
+  499  source
+  500  gd
+  501  git init
+  502  history >> history.txt
